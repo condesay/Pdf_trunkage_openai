@@ -1,0 +1,7 @@
+openai
+tiktoken
+tenacity
+os
+PyPDF2
+streamlit
+
